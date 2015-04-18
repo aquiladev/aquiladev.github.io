@@ -11,7 +11,7 @@ repository_url: https://github.com/aquiladev/nH
 
 <div class="docs">
 	<div>
-		If you want to share your package immediately after making changes in your solution, this service is for you. nH is continuous delivery server for NuGet packages. The service automatically triggers the build and publishes your package into NuGet when you push changes into your version control system.
+		If you want to share your package immediately after making changes in your solution, this service is for you. nHook is continuous delivery server for NuGet packages. The service automatically triggers the build and publishes your package into NuGet when you push changes into your version control system.
 	</div>
 	<div class="header"><h4>NuGet packages</h4></div>
 	<div>
@@ -22,8 +22,10 @@ repository_url: https://github.com/aquiladev/nH
 	</div>
 	<div class="header"><h4>Getting started</h4></div>
 	<div>
-		<div>1. Put nuspec file next to your project file. If you don't have a project file, put nuspec in the root of your repository.</div>
-		<div>2. Set up your version control system.</div>
+		<ol>
+			<li>Put nuspec file next to your project file. If you don't have a project file, put nuspec in the root of your repository.</li>
+			<li>Set up your version control system.</li>
+		</ol>
 	</div>
 	<div class="header"><h4>Version Control Systems</h4></div>
 	<div>
@@ -35,18 +37,18 @@ repository_url: https://github.com/aquiladev/nH
 					<li>
 						<div>Webhook</div>
 						<div>You should open repository's Setting &gt; Webhook&amp;Services &gt; Add webhook and fill form:</div>
-						<div>Payload URL: http://api.nhook.net/github/{NuGetApiKey}</div>
+						<div>Payload URL: http://api.nhook.net/github/{ApiKey}</div>
 						<div>Content type: application/json</div>
 					</li>
 					<li>
 						<div>Service (<span class="bold">recommend</span>)</div>
-						<div>You should open repository's Setting &gt; Webhook&amp;Services &gt; Add service, select NHook and write ApiKey in the appropriate field.</div>
+						<div>You should open repository's Setting &gt; Webhook&amp;Services &gt; Add service, select nHook and write ApiKey in the appropriate field.</div>
 					</li>
 				</ul>
 			</li>
 			<li>
 				<div><h4>BitBucket</h4></div>
-				<div>You should open repository's Setting page to set up BitBucket repository &gt; Hooks, select POST option and write URL: http://api.nhook.net/bitbucket/{NuGetApiKey}</div>
+				<div>You should open repository's Setting page to set up BitBucket repository &gt; Hooks, select POST option and write URL: http://api.nhook.net/bitbucket/{ApiKey}</div>
 			</li>
 		</ul>
 	</div>
