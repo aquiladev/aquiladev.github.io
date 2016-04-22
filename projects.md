@@ -229,7 +229,7 @@ title: Sergii Bomko - Code that Might be Useful to You
 				<div class="item-card" title="Coding4Fun.WorkspaceBox">
 					<div class="cover">
 						<div class="icon-cell">
-							<img class="item-icon" src="https://github.com/aquiladev/Coding4Fun.WorkspaceBox/blob/master/Coding4Fun.WorkspaceBox/Resources/WorkspaceBox.png" title="Coding4Fun.WorkspaceBox" />
+							<img class="item-icon" src="https://raw.githubusercontent.com/aquiladev/Coding4Fun.WorkspaceBox/master/Coding4Fun.WorkspaceBox/Resources/WorkspaceBox.png" title="Coding4Fun.WorkspaceBox" />
 						</div>
 						<div class="core-info-cell">
 							<div class="name">
@@ -244,6 +244,30 @@ title: Sergii Bomko - Code that Might be Useful to You
 					<div class="links">
 						<a href="https://visualstudiogallery.msdn.microsoft.com/ebf0d6c0-2e9b-4e99-80e3-4a716307bcb7">VS 2013</a>,
 						<a href="https://visualstudiogallery.msdn.microsoft.com/12b30529-9a53-4c84-a1c2-381438eb1186">VS 2012</a>
+					</div>
+				</div>
+			</a>
+		</div>
+		<div class="item">
+			<a href="https://github.com/aquiladev/Coding4Fun.TfsAnalytics">
+				<div class="item-card" title="Coding4Fun.TfsAnalytics">
+					<div class="cover">
+						<div class="icon-cell">
+							<img class="item-icon" src="https://raw.githubusercontent.com/aquiladev/Coding4Fun.TfsAnalytics/master/src/Coding4Fun.TfsAnalyticsPackage/Resources/Package.png" title="Coding4Fun.TfsAnalytics" />
+						</div>
+						<div class="core-info-cell">
+							<div class="name">
+								<span>Coding4Fun.TfsAnalytics</span>
+								<span class="text-fadeout"></span>
+							</div>
+						</div>
+					</div>
+					<div class="details">
+						<div class="description" title="This extension is designed to measure the time spent for the task's completion.">This extension is designed to measure the time spent for the task's completion.</div>
+					</div>
+					<div class="links">
+						<a href="https://visualstudiogallery.msdn.microsoft.com/0a08eaa8-87e9-4e75-a04f-b9dffa73f025">VS 2013</a>,
+						<a href="https://visualstudiogallery.msdn.microsoft.com/3bbae6fd-45df-40e0-ac15-9738e90ce0bc">VS 2012</a>
 					</div>
 				</div>
 			</a>
