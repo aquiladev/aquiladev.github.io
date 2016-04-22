@@ -66,7 +66,7 @@ title: Sergii Bomko - Code that Might be Useful to You
     padding: 0 10px;
 }
 .item-card .description {
-    height: 4.2em;
+    height: 4.4em;
     overflow: hidden;
     color: #767676;
     display: -webkit-box;
@@ -83,6 +83,11 @@ title: Sergii Bomko - Code that Might be Useful to You
     right: 0;
     top: 0;
     display: block;
+}
+.item-card .links {
+    position: relative;
+    height: 20px;
+    margin-top: 16px;
 }
 </style>
 
@@ -119,7 +124,7 @@ title: Sergii Bomko - Code that Might be Useful to You
 <div class="list">
 	<div class="header-container">
 		<div class="header">
-			<span class="category">Tools</span>
+			<span class="category">Tools and libraries</span>
 		</div>
 	</div>
 	<div class="item-list-container">
@@ -141,6 +146,30 @@ title: Sergii Bomko - Code that Might be Useful to You
 				</div>
 			</div>
 		</div>
+		<div class="item">
+			<a href="https://github.com/aquiladev/chromypack">
+				<div class="item-card" title="chromypack">
+					<div class="cover">
+						<div class="icon-cell">
+							<img class="item-icon" src="http://www.chromium.org/_/rsrc/1438879449147/config/customLogo.gif" title="chromypack" />
+						</div>
+						<div class="core-info-cell">
+							<div class="name">
+								<span>chromypack</span>
+								<span class="text-fadeout"></span>
+							</div>
+						</div>
+					</div>
+					<div class="details">
+						<div class="description" title="Generating package for ChromeDriver. The library can check ChromeDriver updates and generate NuGet package with it.">Generating package for ChromeDriver. The library can check ChromeDriver updates and generate NuGet package with it.</div>
+					</div>
+					<div class="links">
+						<a href="https://www.nuget.org/packages/chromypack">pack</a>,
+						<a href="https://www.nuget.org/packages/Chromium.ChromeDriver">ChromeDriver</a>
+					</div>
+				</div>
+			</a>
+		</div>
 	</div>
 </div>
 <div class="list">
@@ -154,7 +183,7 @@ title: Sergii Bomko - Code that Might be Useful to You
 			<div class="item-card" title="VSTS Kudu Tasks">
 				<div class="cover">
 					<div class="icon-cell">
-						<img class="item-icon" src="https://sergiibomko.gallery.vsassets.io/_apis/public/gallery/publisher/sergiibomko/extension/vsts-kudu-tasks/0.1.6/assetbyname/Microsoft.VisualStudio.Services.Icons.Default" title="VSTS Kudu Tasks" />
+						<img class="item-icon" src="https://raw.githubusercontent.com/aquiladev/vsts-kudu-tasks/master/Extension/icon.svg" title="VSTS Kudu Tasks" />
 					</div>
 					<div class="core-info-cell">
 						<div class="name">
