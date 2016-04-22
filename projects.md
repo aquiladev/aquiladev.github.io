@@ -132,22 +132,28 @@ title: Sergii Bomko - Code that Might be Useful to You
 	</div>
 	<div class="item-list-container">
 		<div class="item">
-			<div class="item-card" title="AquilaDev.Owin.Security.LaunchKey">
-				<div class="cover">
-					<div class="icon-cell">
-						<img class="item-icon" src="https://s3.amazonaws.com/launchkey-resources/logo/logo/launchkey-logos_launchkey-icon-blue.png" title="AquilaDev.Owin.Security.LaunchKey" />
-					</div>
-					<div class="core-info-cell">
-						<div class="name">
-							<span>AquilaDev.Owin.Security.LaunchKey</span>
-							<span class="text-fadeout"></span>
+			<a href="https://github.com/aquiladev/AquilaDev.Owin.Security.LaunchKey">
+				<div class="item-card" title="AquilaDev.Owin.Security.LaunchKey">
+					<div class="cover">
+						<div class="icon-cell">
+							<img class="item-icon" src="https://s3.amazonaws.com/launchkey-resources/logo/logo/launchkey-logos_launchkey-icon-blue.png" title="AquilaDev.Owin.Security.LaunchKey" />
+						</div>
+						<div class="core-info-cell">
+							<div class="name">
+								<span>AquilaDev.Owin.Security.LaunchKey</span>
+								<span class="text-fadeout"></span>
+							</div>
 						</div>
 					</div>
+					<div class="details">
+						<div class="description" title="Middleware that enables an application to use LaunchKey's OAuth 2.0 authentication workflows.">Middleware that enables an application to use LaunchKey's OAuth 2.0 authentication workflows.</div>
+					</div>
+					<div class="links">
+						<a href="https://www.nuget.org/packages/AquilaDev.Owin.Security.LaunchKey">Pack</a>,
+						<a href="https://launchkey.com">LaunchKey</a>
+					</div>
 				</div>
-				<div class="details">
-					<div class="description" title="Middleware that enables an application to use LaunchKey's OAuth 2.0 authentication workflows.">Middleware that enables an application to use LaunchKey's OAuth 2.0 authentication workflows.</div>
-				</div>
-			</div>
+			</a>
 		</div>
 		<div class="item">
 			<a href="https://github.com/aquiladev/chromypack">
@@ -167,8 +173,7 @@ title: Sergii Bomko - Code that Might be Useful to You
 						<div class="description" title="Generating package for ChromeDriver. The library can check ChromeDriver updates and generate NuGet package with it.">Generating package for ChromeDriver. The library can check ChromeDriver updates and generate NuGet package with it.</div>
 					</div>
 					<div class="links">
-						<a href="https://www.nuget.org/packages/chromypack">Pack</a>,
-						<a href="https://www.nuget.org/packages/Chromium.ChromeDriver">ChromeDriver</a>
+						<a href="https://www.nuget.org/packages/Chromium.ChromeDriver">ChromeDriver pack</a>
 					</div>
 				</div>
 			</a>
@@ -215,22 +220,27 @@ title: Sergii Bomko - Code that Might be Useful to You
 	</div>
 	<div class="item-list-container">
 		<div class="item">
-			<div class="item-card" title="Bicycle beacon">
-				<div class="cover">
-					<div class="icon-cell">
-						<img class="item-icon" src="https://raw.githubusercontent.com/aquiladev/aquiladev.github.io/master/images/beacon.png" title="Bicycle beacon" />
-					</div>
-					<div class="core-info-cell">
-						<div class="name">
-							<span>Bicycle beacon</span>
-							<span class="text-fadeout"></span>
+			<a href="https://github.com/aquiladev/bicycle_wheel_beacon">
+				<div class="item-card" title="Bicycle beacon">
+					<div class="cover">
+						<div class="icon-cell">
+							<img class="item-icon" src="https://raw.githubusercontent.com/aquiladev/aquiladev.github.io/master/images/beacon.png" title="Bicycle beacon" />
+						</div>
+						<div class="core-info-cell">
+							<div class="name">
+								<span>Bicycle beacon</span>
+								<span class="text-fadeout"></span>
+							</div>
 						</div>
 					</div>
+					<div class="details">
+						<div class="description" title="The proof of concept for device with same functionality like revolights project from kickstarter.">The proof of concept for device with same functionality like <a href="http://revolights.com/">revolights</a> project from kickstarter.</div>
+					</div>
+					<div class="links">
+						<a href="https://vimeo.com/52921155">Video</a>
+					</div>
 				</div>
-				<div class="details">
-					<div class="description" title="The proof of concept for device with same functionality like revolights project from kickstarter.">The proof of concept for device with same functionality like <a href="http://revolights.com/">revolights</a> project from kickstarter.</div>
-				</div>
-			</div>
+			</a>
 		</div>
 	</div>
 </div>
