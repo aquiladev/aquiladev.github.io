@@ -105,22 +105,27 @@ title: Sergii Bomko - Code that Might be Useful to You
 	</div>
 	<div class="item-list-container">
 		<div class="item">
-			<div class="item-card" title="nHook">
-				<div class="cover">
-					<div class="icon-cell">
-						<img class="item-icon" src="http://nhook.net/content/images/logo.png" title="nHook" />
-					</div>
-					<div class="core-info-cell">
-						<div class="name">
-							<span>nHook</span>
-							<span class="text-fadeout"></span>
+			<a href="https://github.com/nHook">
+				<div class="item-card" title="nHook">
+					<div class="cover">
+						<div class="icon-cell">
+							<img class="item-icon" src="http://nhook.net/content/images/logo.png" title="nHook" />
+						</div>
+						<div class="core-info-cell">
+							<div class="name">
+								<span>nHook</span>
+								<span class="text-fadeout"></span>
+							</div>
 						</div>
 					</div>
+					<div class="details">
+						<div class="description" title="nHook is a service that can build and publish your package into NuGet. The nHook service can be applied to your GitHub or BitBucket repository and automatically build your project after pushing your changes.">nHook is a service that can build and publish your package into NuGet. The nHook service can be applied to your GitHub or BitBucket repository and automatically build your project after pushing your changes.</div>
+					</div>
+					<div class="links">
+						<a href="http://nhook.net/">nHook</a>
+					</div>
 				</div>
-				<div class="details">
-					<div class="description" title="nHook is a service that can build and publish your package into NuGet. The nHook service can be applied to your GitHub or BitBucket repository and automatically build your project after pushing your changes.">nHook is a service that can build and publish your package into NuGet. The nHook service can be applied to your GitHub or BitBucket repository and automatically build your project after pushing your changes.</div>
-				</div>
-			</div>
+			</a>
 		</div>
 	</div>
 </div>
@@ -237,7 +242,8 @@ title: Sergii Bomko - Code that Might be Useful to You
 						<div class="description" title="The proof of concept for device with same functionality like revolights project from kickstarter.">The proof of concept for device with same functionality like <a href="http://revolights.com/">revolights</a> project from kickstarter.</div>
 					</div>
 					<div class="links">
-						<a href="https://vimeo.com/52921155">Video</a>
+						<a href="https://vimeo.com/52921155">Video</a>,
+						<a href="https://www.arduino.cc/">Arduino</a>
 					</div>
 				</div>
 			</a>
