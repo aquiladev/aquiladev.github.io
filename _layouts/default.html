@@ -17,10 +17,7 @@
       header h3 { margin-top: 20px; margin-bottom: 5px; }
       header p.view { margin-bottom: 5px; }
       header p.view small { padding-top: 2px; }
-      header ul {
-        zoom: 0.7;
-        margin-top: 25px;
-      }
+      header ul { zoom: 0.7; margin-top: 25px; }
       section p { margin-top: 10px; }
       section h1 { margin-bottom: 15px; }
       section h2 { margin-bottom: 10px; }
@@ -35,37 +32,29 @@
         margin: 7px;
         margin-bottom: 10px;
       }
-      .half-width h4 {
-        margin-bottom: 5px;
-      }
-      .half-width ul {
-        padding-left: 0;
-      }
-      .half-width ul li {
-        list-style: inside;
-        font-size: 15px;
-      }
-      .clear-fix {
-        clear: both;
-      }
+      .half-width h4 { margin-bottom: 5px; }
+      .half-width ul { padding-left: 0; }
+      .half-width ul li { list-style: inside; font-size: 15px; }
+      .clear-fix { clear: both; }
+      .wrapper { width: 960px; }
+      section#main { width: 600px; }
     </style>
     <script src="https://github.com/themes/minimal/javascripts/scale.fix.js"></script>
-	<script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-	  ga('create', 'UA-25703825-7', 'auto');
-	  ga('send', 'pageview');
-	</script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-25703825-7', 'auto');
+      ga('send', 'pageview');
+    </script>
   </head>
   <body>
     <div class="wrapper">
       <header>
         <h1><a href="/">Sergii Bomko</a></h1>
-		<p class="view"><a href="/projects.html">My Projects<small>Code that Might be Useful to You</small></a></p>
-
+        <p class="view"><a href="/projects.html">My Projects<small>Code that Might be Useful to You</small></a></p>
         <h3>I'm also on</h3>
         <p class="view"><a href="https://github.com/aquiladev" target="tab">GitHub<small>If you code</small></a></li>
         <p class="view"><a href="https://twitter.com/aquiladev" target="tab">Twitter<small>If you tweet</small></a></li>
@@ -73,11 +62,8 @@
         <p class="view"><a href="https://instagram.com/aquiladev" target="tab">Instagram<small>If you take photos constantly</small></a></li>
         <p class="view"><a href="https://linkedin.com/in/bomko" target="tab">LinkedIn<small>If you wanna hire me )</small></a></li>
       </header>
-      <section id="main">
-        {{ content }}
-      </section>
-      <footer>
-      </footer>
+      <section id="main">{{ content }}</section>
+      <footer></footer>
     </div>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="js/libs/jquery-1.6.2.min.js"><\/script>')</script>
