@@ -47,6 +47,10 @@ title: Sergii Bomko - Code that Might be Useful to You
 .home-page-view img {
     border-style: none;
 }
+.item-card .core-info-cell {
+    padding: 0 10px;
+    position: relative;
+}
 .item-card .core-info-cell .name {
     font-size: 14px;
     font-family: Segoe UI,wf_segoe-ui_normal,-apple-system,".SFNSText-Regular","San Francisco","Roboto","Helvetica Neue","Lucida Grande",sans-serif;
@@ -54,6 +58,10 @@ title: Sergii Bomko - Code that Might be Useful to You
     white-space: nowrap;
     overflow: hidden;
     position: relative;
+}
+.item-card .details {
+    margin-top: 10px;
+    padding: 0 10px;
 }
 .item-card .description {
     height: 4em;
@@ -71,9 +79,36 @@ title: Sergii Bomko - Code that Might be Useful to You
 <hr/>
 
 <div class="list">
-	<div style="header-container">
+	<div class="header-container">
 		<div class="header">
 			<span class="category">Services</span>
+		</div>
+	</div>
+	<div class="item-list-container">
+		<div class="item">
+			<div class="item-card" title="nHook">
+				<div class="cover">
+					<div class="icon-cell">
+						<img class="item-icon" src="http://nhook.net/content/images/logo.png" title="nHook" />
+					</div>
+					<div class="core-info-cell">
+						<div class="name">
+							<span>nHook</span>
+							<span class="text-fadeout"></span>
+						</div>
+					</div>
+				</div>
+				<div class="details">
+					<div class="description" title="nHook is a service that can build and publish your package into NuGet. The nHook service can be applied to your GitHub or BitBucket repository and automatically build your project after pushing your changes.">nHook is a service that can build and publish your package into NuGet. The nHook service can be applied to your GitHub or BitBucket repository and automatically build your project after pushing your changes.</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="list">
+	<div class="header-container">
+		<div class="header">
+			<span class="category">Build and release</span>
 		</div>
 	</div>
 	<div class="item-list-container">
@@ -91,16 +126,12 @@ title: Sergii Bomko - Code that Might be Useful to You
 					</div>
 				</div>
 				<div class="details">
-					<div class="description" title="Extension that enable you to integrate with Kudu">Extension that enable you to integrate   with Kudu</div>
+					<div class="description" title="Extension that enable you to integrate with Kudu">Extension that enable you to integrate with Kudu</div>
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
-
-<h2><a href="http://nhook.github.io">nHook</a></h2>
-<p>nHook is a service that can build NuGet package and publish it.</p>
-<hr/>
 
 <table><tr><td><div style="text-align:center;padding: 16px 0;"><img src="https://s3.amazonaws.com/launchkey-resources/logo/logo/launchkey-logos_launchkey-icon-blue.png"  style="max-width:150px;height:72px;" /></div></td><td><h2><a href="https://github.com/aquiladev/AquilaDev.Owin.Security.LaunchKey">AquilaDev.Owin.Security.LaunchKey</a></h2></td></tr></table>
 <p><a href="https://www.nuget.org/packages/AquilaDev.Owin.Security.LaunchKey">NuGet package</a></p>
