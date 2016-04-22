@@ -15,7 +15,8 @@ title: Sergii Bomko - Code that Might be Useful to You
     text-decoration: none;
 }
 .item-list-container {
-    position: absolute;
+    position: relative;
+    width: 100%;
 }
 .item-list-container .item {
     float: left;
@@ -64,7 +65,7 @@ title: Sergii Bomko - Code that Might be Useful to You
     padding: 0 10px;
 }
 .item-card .description {
-    height: 4em;
+    height: 4.2em;
     overflow: hidden;
     color: #767676;
     display: -webkit-box;
@@ -72,6 +73,15 @@ title: Sergii Bomko - Code that Might be Useful to You
     -webkit-box-orient: vertical;
     overflow: hidden;
     text-overflow: ellipsis;
+}
+.item-card .text-fadeout {
+    height: 100%;
+    width: 30px;
+    background: linear-gradient(to right,rgba(255,255,255,0),#fff);
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: block;
 }
 </style>
 
