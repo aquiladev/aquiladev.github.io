@@ -108,6 +108,33 @@ title: Sergii Bomko - Code that Might be Useful to You
 <div class="list">
 	<div class="header-container">
 		<div class="header">
+			<span class="category">Tools</span>
+		</div>
+	</div>
+	<div class="item-list-container">
+		<div class="item">
+			<div class="item-card" title="AquilaDev.Owin.Security.LaunchKey">
+				<div class="cover">
+					<div class="icon-cell">
+						<img class="item-icon" src="https://s3.amazonaws.com/launchkey-resources/logo/logo/launchkey-logos_launchkey-icon-blue.png" title="AquilaDev.Owin.Security.LaunchKey" />
+					</div>
+					<div class="core-info-cell">
+						<div class="name">
+							<span>AquilaDev.Owin.Security.LaunchKey</span>
+							<span class="text-fadeout"></span>
+						</div>
+					</div>
+				</div>
+				<div class="details">
+					<div class="description" title="Middleware that enables an application to use LaunchKey's OAuth 2.0 authentication workflows.">Middleware that enables an application to use LaunchKey's OAuth 2.0 authentication workflows.</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="list">
+	<div class="header-container">
+		<div class="header">
 			<span class="category">Build and release</span>
 		</div>
 	</div>
@@ -132,8 +159,3 @@ title: Sergii Bomko - Code that Might be Useful to You
 		</div>
 	</div>
 </div>
-
-<table><tr><td><div style="text-align:center;padding: 16px 0;"><img src="https://s3.amazonaws.com/launchkey-resources/logo/logo/launchkey-logos_launchkey-icon-blue.png"  style="max-width:150px;height:72px;" /></div></td><td><h2><a href="https://github.com/aquiladev/AquilaDev.Owin.Security.LaunchKey">AquilaDev.Owin.Security.LaunchKey</a></h2></td></tr></table>
-<p><a href="https://www.nuget.org/packages/AquilaDev.Owin.Security.LaunchKey">NuGet package</a></p>
-<p>Middleware that enables an application to use LaunchKey's OAuth 2.0 authentication workflows.</p>
-<hr/>
