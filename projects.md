@@ -164,7 +164,7 @@ title: Sergii Bomko - Code that Might be Useful to You
 					</div>
 				</div>
 				<div class="details">
-					<div class="description" title="Extension that enable you to integrate with Kudu">Extension that enable you to integrate with Kudu</div>
+					<div class="description" title="Extension that enable you to integrate with Kudu.">Extension that enable you to integrate with Kudu.</div>
 				</div>
 			</div>
 		</div>
@@ -177,5 +177,23 @@ title: Sergii Bomko - Code that Might be Useful to You
 		</div>
 	</div>
 	<div class="item-list-container">
+		<div class="item">
+			<div class="item-card" title="Bicycle beacon">
+				<div class="cover">
+					<div class="icon-cell">
+						<img class="item-icon" src="https://raw.githubusercontent.com/aquiladev/aquiladev.github.io/master/images/beacon.png" title="Bicycle beacon" />
+					</div>
+					<div class="core-info-cell">
+						<div class="name">
+							<span>Bicycle beacon</span>
+							<span class="text-fadeout"></span>
+						</div>
+					</div>
+				</div>
+				<div class="details">
+					<div class="description" title="The proof of concept for device with same functionality like revolights project from kickstarter.">The proof of concept for device with same functionality like <a href="http://revolights.com/">revolights</a> project from kickstarter.</div>
+				</div>
+			</div>
+		</div>
 	</div>
 </div>
