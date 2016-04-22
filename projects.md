@@ -18,6 +18,7 @@ title: Sergii Bomko - Code that Might be Useful to You
     display: inline-block;
     position: relative;
     width: 100%;
+    color: #000;
 }
 .item-list-container .item {
     float: left;
@@ -60,6 +61,7 @@ title: Sergii Bomko - Code that Might be Useful to You
     white-space: nowrap;
     overflow: hidden;
     position: relative;
+    color: inherit;
 }
 .item-card .details {
     margin-top: 10px;
@@ -88,6 +90,7 @@ title: Sergii Bomko - Code that Might be Useful to You
     position: relative;
     height: 20px;
     margin-top: 16px;
+    padding: 0 10px;
 }
 </style>
 
@@ -164,7 +167,7 @@ title: Sergii Bomko - Code that Might be Useful to You
 						<div class="description" title="Generating package for ChromeDriver. The library can check ChromeDriver updates and generate NuGet package with it.">Generating package for ChromeDriver. The library can check ChromeDriver updates and generate NuGet package with it.</div>
 					</div>
 					<div class="links">
-						<a href="https://www.nuget.org/packages/chromypack">pack</a>,
+						<a href="https://www.nuget.org/packages/chromypack">Pack</a>,
 						<a href="https://www.nuget.org/packages/Chromium.ChromeDriver">ChromeDriver</a>
 					</div>
 				</div>
@@ -180,22 +183,27 @@ title: Sergii Bomko - Code that Might be Useful to You
 	</div>
 	<div class="item-list-container">
 		<div class="item">
-			<div class="item-card" title="VSTS Kudu Tasks">
-				<div class="cover">
-					<div class="icon-cell">
-						<img class="item-icon" src="https://raw.githubusercontent.com/aquiladev/vsts-kudu-tasks/master/Extension/icon.svg" title="VSTS Kudu Tasks" />
-					</div>
-					<div class="core-info-cell">
-						<div class="name">
-							<span>VSTS Kudu Tasks</span>
-							<span class="text-fadeout"></span>
+			<a href="https://github.com/aquiladev/vsts-kudu-tasks">
+				<div class="item-card" title="VSTS Kudu Tasks">
+					<div class="cover">
+						<div class="icon-cell">
+							<img class="item-icon" src="https://raw.githubusercontent.com/aquiladev/vsts-kudu-tasks/master/Extension/icon.png" title="VSTS Kudu Tasks" />
+						</div>
+						<div class="core-info-cell">
+							<div class="name">
+								<span>VSTS Kudu Tasks</span>
+								<span class="text-fadeout"></span>
+							</div>
 						</div>
 					</div>
+					<div class="details">
+						<div class="description" title="Extension that enable you to integrate with Kudu.">Extension that enable you to integrate with Kudu.</div>
+					</div>
+					<div class="links">
+						<a href="https://marketplace.visualstudio.com/items?itemName=sergiibomko.vsts-kudu-tasks">Extension</a>
+					</div>
 				</div>
-				<div class="details">
-					<div class="description" title="Extension that enable you to integrate with Kudu.">Extension that enable you to integrate with Kudu.</div>
-				</div>
-			</div>
+			</a>
 		</div>
 	</div>
 </div>
