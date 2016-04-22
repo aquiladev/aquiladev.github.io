@@ -239,11 +239,11 @@ title: Sergii Bomko - Code that Might be Useful to You
 						</div>
 					</div>
 					<div class="details">
-						<div class="description" title="The proof of concept for device with same functionality like revolights project from kickstarter.">The proof of concept for device with same functionality like <a href="http://revolights.com/">revolights</a> project from kickstarter.</div>
+						<div class="description" title="The proof of concept for device with same functionality like revolights project from kickstarter.">The proof of concept for device with same functionality like revolights project from kickstarter.</div>
 					</div>
 					<div class="links">
 						<a href="https://vimeo.com/52921155">Video</a>,
-						<a href="https://www.arduino.cc/">Arduino</a>
+						<a href="http://revolights.com">Revolights</a>
 					</div>
 				</div>
 			</a>
