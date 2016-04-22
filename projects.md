@@ -141,7 +141,7 @@ title: Sergii Bomko - Code that Might be Useful to You
 				<div class="item-card" title="AquilaDev.Owin.Security.LaunchKey">
 					<div class="cover">
 						<div class="icon-cell">
-							<img class="item-icon" src="https://s3.amazonaws.com/launchkey-resources/logo/logo/launchkey-logos_launchkey-icon-blue.png" title="AquilaDev.Owin.Security.LaunchKey" />
+							<img class="item-icon" src="https://raw.githubusercontent.com/aquiladev/aquiladev.github.io/master/images/launchkey_icon.png" title="AquilaDev.Owin.Security.LaunchKey" />
 						</div>
 						<div class="core-info-cell">
 							<div class="name">
