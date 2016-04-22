@@ -220,6 +220,39 @@ title: Sergii Bomko - Code that Might be Useful to You
 <div class="list">
 	<div class="header-container">
 		<div class="header">
+			<span class="category">Visual Studio extensions</span>
+		</div>
+	</div>
+	<div class="item-list-container">
+		<div class="item">
+			<a href="https://github.com/aquiladev/Coding4Fun.WorkspaceBox">
+				<div class="item-card" title="Coding4Fun.WorkspaceBox">
+					<div class="cover">
+						<div class="icon-cell">
+							<img class="item-icon" src="https://github.com/aquiladev/Coding4Fun.WorkspaceBox/blob/master/Coding4Fun.WorkspaceBox/Resources/WorkspaceBox.png" title="Coding4Fun.WorkspaceBox" />
+						</div>
+						<div class="core-info-cell">
+							<div class="name">
+								<span>Coding4Fun.WorkspaceBox</span>
+								<span class="text-fadeout"></span>
+							</div>
+						</div>
+					</div>
+					<div class="details">
+						<div class="description" title="This extension displays the current workspace by its location and therefore will significantly help you to speed up.">This extension displays the current workspace by its location and therefore will significantly help you to speed up.</div>
+					</div>
+					<div class="links">
+						<a href="https://visualstudiogallery.msdn.microsoft.com/ebf0d6c0-2e9b-4e99-80e3-4a716307bcb7">VS 2013</a>,
+						<a href="https://visualstudiogallery.msdn.microsoft.com/12b30529-9a53-4c84-a1c2-381438eb1186">VS 2012</a>
+					</div>
+				</div>
+			</a>
+		</div>
+	</div>
+</div>
+<div class="list">
+	<div class="header-container">
+		<div class="header">
 			<span class="category">Devices</span>
 		</div>
 	</div>
