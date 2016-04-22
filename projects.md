@@ -165,7 +165,7 @@ title: Sergii Bomko - Code that Might be Useful to You
 				<div class="item-card" title="chromypack">
 					<div class="cover">
 						<div class="icon-cell">
-							<img class="item-icon" src="http://www.chromium.org/_/rsrc/1438879449147/config/customLogo.gif" title="chromypack" />
+							<img class="item-icon" src="https://raw.githubusercontent.com/aquiladev/aquiladev.github.io/master/images/chromium_icon.png" title="chromypack" />
 						</div>
 						<div class="core-info-cell">
 							<div class="name">
