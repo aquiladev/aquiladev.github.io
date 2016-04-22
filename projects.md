@@ -15,6 +15,7 @@ title: Sergii Bomko - Code that Might be Useful to You
     text-decoration: none;
 }
 .item-list-container {
+    display: inline-block;
     position: relative;
     width: 100%;
 }
@@ -167,5 +168,14 @@ title: Sergii Bomko - Code that Might be Useful to You
 				</div>
 			</div>
 		</div>
+	</div>
+</div>
+<div class="list">
+	<div class="header-container">
+		<div class="header">
+			<span class="category">Devices</span>
+		</div>
+	</div>
+	<div class="item-list-container">
 	</div>
 </div>
