@@ -238,6 +238,29 @@ title: Sergii Bomko - Code that Might be Useful to You
 				</div>
 			</a>
 		</div>
+		<div class="item">
+			<a href="https://github.com/aquiladev/vsts-trigger">
+				<div class="item-card" title="VSTS Trigger">
+					<div class="cover">
+						<div class="icon-cell">
+							<img class="item-icon" src="https://raw.githubusercontent.com/aquiladev/vsts-trigger/master/Extension/icon.png" title="VSTS Trigger" />
+						</div>
+						<div class="core-info-cell">
+							<div class="name">
+								<span>VSTS Trigger</span>
+								<span class="text-fadeout"></span>
+							</div>
+						</div>
+					</div>
+					<div class="details">
+						<div class="description" title="Extension that enable you to trigger release process.">Extension that enable you to trigger release process.</div>
+					</div>
+					<div class="links">
+						<a href="https://marketplace.visualstudio.com/items?itemName=sergiibomko.vsts-trigger">Extension</a>
+					</div>
+				</div>
+			</a>
+		</div>
 	</div>
 </div>
 <div class="list">
