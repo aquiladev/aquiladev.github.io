@@ -109,11 +109,11 @@ title: Sergii Bomko - Code that Might be Useful to You
 				<div class="item-card" title="nHook">
 					<div class="cover">
 						<div class="icon-cell">
-							<img class="item-icon" src="http://nhook.net/content/images/logo.png" title="nHook" />
+							<img class="item-icon" src="http://nhook.github.io/content/logo.png" title="nHook" />
 						</div>
 						<div class="core-info-cell">
 							<div class="name">
-								<span>nHook</span>
+								<span>nHook - OUTDATED</span>
 								<span class="text-fadeout"></span>
 							</div>
 						</div>
@@ -122,7 +122,7 @@ title: Sergii Bomko - Code that Might be Useful to You
 						<div class="description" title="nHook is a service that can build and publish your package into NuGet. The nHook service can be applied to your GitHub or BitBucket repository and automatically build your project after pushing your changes.">nHook is a service that can build and publish your package into NuGet. The nHook service can be applied to your GitHub or BitBucket repository and automatically build your project after pushing your changes.</div>
 					</div>
 					<div class="links">
-						<a href="http://nhook.net/">nHook</a>
+						<a href="http://nhook.github.io/">nHook docs</a>
 					</div>
 				</div>
 			</a>
