@@ -323,7 +323,7 @@ title: Sergii Bomko - Code that Might be Useful to You
 <div class="list">
 	<div class="header-container">
 		<div class="header">
-			<span class="category">Devices</span>
+			<span class="category">Devices and hardware</span>
 		</div>
 	</div>
 	<div class="item-list-container">
