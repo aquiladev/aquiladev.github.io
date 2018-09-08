@@ -99,3 +99,5 @@ but in this case it is not possible to allocate memory and retreive length in on
 ### Magic numbers
 You can see lots of magic numbers which have different explanations. In order to understand better purpose of those functions 
 and variables would be better to check [documentation](https://solidity.readthedocs.io/en/v0.4.21/assembly.html).
+
+Tags: Ethereum, Blockchain, Solidity, Solidity 0.4.18
