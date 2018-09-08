@@ -1,6 +1,5 @@
-# Hierarchical structure in simple type in Solidity
-Hierarchical structure is a widely used, you can imagine structure of hierarchical organization, file system, etc.
-The structure also known as [tree](https://en.wikipedia.org/wiki/Tree_(data_structure)).
+# Tree in Solidity
+[Tree](https://en.wikipedia.org/wiki/Tree_(data_structure)) is a widely used abstract data type, you can imagine structure of hierarchical organization, file system, etc.
 
 ![image]
 
