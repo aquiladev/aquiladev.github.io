@@ -41,7 +41,7 @@ title: Sergii Bomko - Pages
 }
 .item-card .icon-cell {
     text-align: center;
-    padding: 16px 0;
+    padding-top: 16px;
 }
 .item-card .icon-cell>img {
     max-width: 85%;
@@ -51,7 +51,7 @@ title: Sergii Bomko - Pages
     border-style: none;
 }
 .item-card .core-info-cell {
-    padding: 0 10px;
+    padding: 16px;
     position: relative;
 }
 .item-card .core-info-cell .name {
