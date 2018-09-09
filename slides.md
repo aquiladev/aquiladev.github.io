@@ -94,7 +94,7 @@ title: Sergii Bomko - Slides
 }
 </style>
 
-<h1>Open Source Slides</h1>
+<h1>Slides</h1>
 <hr/>
 
 <div class="list">
