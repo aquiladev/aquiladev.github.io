@@ -1,4 +1,4 @@
-# Transferring dynamic types between contracts in Solidity
+# Dynamic types between contracts in Solidity
 In current Solidity implementation it is not possible to return dynamic content from external function calls.
 For instance you would like to return string from one smart contract to another.
 
@@ -6,7 +6,7 @@ It is not possible to do it in a nice way, but possible to do in a dirty way via
 
 ### Smart Contracts
 Let's start from smart contracts structure.
-Here are two contracts, `Storage` contains data, `Accessor` contains instanse of `Storage` contract.
+Here are two contracts, `Storage` contains data, `Reader` contains instanse of `Storage` contract.
 ```
 contract Storage {
     function get() public pure returns(string) {
@@ -14,16 +14,16 @@ contract Storage {
     }
 }
 
-contract Accessor {
+contract Reader {
     Storage private store;
 
-    function Accessor(address _store) public {
+    function Reader(address _store) public {
         store = Storage(_store);
     }
 }
 ```
 
-### How `Accessor` could retrieve string value from `store.get()` call?
+### How `Reader` could retrieve string value from `store.get()` call?
 
 Here is long answer:
 ```
