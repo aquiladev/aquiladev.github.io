@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sergii Bomko - Pages
+title: Sergii Bomko - Slides
 ---
 
 <style>
@@ -94,7 +94,7 @@ title: Sergii Bomko - Pages
 }
 </style>
 
-<h1>Open Source Projects</h1>
+<h1>Open Source Slides</h1>
 <hr/>
 
 <div class="list">
@@ -108,7 +108,7 @@ title: Sergii Bomko - Pages
             </div>
             <div class="core-info-cell">
               <div class="name">
-                <span>Fact0ring</span>
+                <span>Invoice Factoring</span>
                 <span class="text-fadeout"></span>
               </div>
             </div>
