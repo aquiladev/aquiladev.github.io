@@ -29,7 +29,7 @@ title: Sergii Bomko - Slides
     background-color: #fff;
     font-size: 12px;
     width: 182px;
-    height: 246px;
+    height: 146px;
     border-radius: 0;
     border: 1px solid #fff;
     cursor: pointer;
